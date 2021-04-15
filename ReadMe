@@ -1,0 +1,3 @@
+A bunch of crawlers which use selenium web driver running as a container to crawl and look for specific elements like appointment date.
+Also has notification tools to send text, email and mac notifications.
+TODO: Add more content here to explain how to build and launch docker containers
